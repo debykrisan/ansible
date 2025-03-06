@@ -1,0 +1,3 @@
+[servers]
+server ansible_host=103.84.207.240 ansible_user=debydevops ansible_become=yes ansible_port=2425 
+ansible_python_interpreter=/usr/bin/python3
